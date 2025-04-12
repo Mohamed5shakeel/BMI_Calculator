@@ -201,6 +201,7 @@ border-collapse: collapse;
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/945ea971-402f-45f3-bddd-7b3b3358335d)
 
 ## RESULT
 The program for creating BMI Calculator using React Router is executed successfully.
